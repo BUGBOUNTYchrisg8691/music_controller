@@ -6,8 +6,15 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "*"
+pynvim = "*"
+neovim = "*"
+parso = "*"
+jedi = "*"
+pylint = "*"
+pylint-django = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.8"
